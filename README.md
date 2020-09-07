@@ -17,6 +17,7 @@ E1 DET = Y2
 E0 DET = X2
 PWR DET = Z2
 
+<img src="docs/connect.jpg" />
 
 # Marlin 3D Printer Firmware
 
